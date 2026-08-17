@@ -1,0 +1,7 @@
+# Ignorar archivos del editor y del sistema
+.vscode/
+.DS_Store
+*.swp
+
+# Ignorar logs o archivos temporales de XAMPP si los hubiera
+logs/
